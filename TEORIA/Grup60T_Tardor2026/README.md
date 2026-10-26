@@ -1,7 +1,6 @@
-# ARXIUS GENERALS:
 # Grup 60T de tardor (Curs 2026/27)
 
-# **Tema 1**: CORRENT CONTINU
+## **Tema 1**: CORRENT CONTINU (Tema1_CC_Curs26-27.pdf)
     1.1 Càrrega elèctrica i camp elèctric
     1.2 Corrent elèctric
     1.3 Diferència de potencial
