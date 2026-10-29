@@ -12,3 +12,14 @@
     1.9 Aparells de mesura
     1.10 Teorema de Thévenin
     1.11 Condensadors
+
+## **Tema 2**: CORRENT ALTERN (Tema2_CA_Curs26-27.pdf)
+    2.1 Transitoris (RC i RL)
+    2.2 Règim estacionari del circuit RCL
+    2.3 Nombres complexos
+    2.4 Impedància. Llei d’Ohm (complexa)
+    2.5 Circuits de Corrent Altern
+    2.6 Potència (instantània, activa, aparent i reactiva)
+    2.7 Superposició de senyals i Amplada de banda (Sèries de Fourier)
+    2.8 Ressonància
+    2.9 Circuits Filtres
